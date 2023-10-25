@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+  background: linear-gradient(to bottom, #000046, #1CB5E0);
+}
+
+.noFound {
+  display: grid;
+  place-items: center;
+  margin-top: 50px;
+  color: red;
+  background-color: black;
+  padding: 5rem;
+}
+
+.noFoundLogo {
+  border-color: white;
+  border-radius: 30%;
+}
+
+h3,
+h2 {
+  padding: 1.5rem;
+}

@@ -1,0 +1,13 @@
+/* .presentacion {
+    /* display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 1rem;
+    margin: 3rem;} */
+
+
+
+.tamanio {
+    height: 200px;
+    width: 200px;
+    padding: 2rem;
+}

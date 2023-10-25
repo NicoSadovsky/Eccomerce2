@@ -1,0 +1,11 @@
+.centrar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2rem;
+}
+
+.separacion {
+    padding: 1rem;
+    margin: 20px;
+}
